@@ -1,0 +1,67 @@
+
+1-
+ echo "this is my file" > .Amna
+ ls -a
+.  ..  .Amna  CLI.txt
+ cat .Amna
+this is my file
+
+
+2-
+ mkdir -p a/b/c/e/f
+
+
+3-
+
+ echo "this is the firt line" > amna.txt
+ cat amna.txt
+this is the firt line
+ echo "this is the secend line" >> amna.txt
+ cat amna.txt
+this is the firt line
+this is the secend line
+
+
+4-
+
+
+       echo 'amna
+> hambing
+> dima
+> ahmad' > groep1.txt
+        echo 'nada
+> rami
+> lina
+> samer' > groep2.txt
+        echo 'sara
+> darin
+> noer
+> sara' > groep3.txt
+        echo 'nadia
+> jamila
+> fatima
+> maria' > groep4.txt
+                     cat groep4.txt
+nadia
+jamila
+fatima
+maria
+                    cat groep1.txt
+amna
+hambing
+dima
+ahmad
+                    cat groep2.txt
+nada
+rami
+lina
+samer
+                    cat groep3.txt
+sara
+darin
+noer
+sara
+
+
+
+
